@@ -18,8 +18,8 @@ I teach robots how to perceive, how to learn, and how to act. For more details o
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 
 <p align="left">
-<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=shineyruan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-<img alt="Shineyruan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shineyruan&hide=c,javascript&theme=dracula&layout=compact">
+<img alt="William's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=williamcfrancis&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+<img alt="William's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcfrancis&hide=c,javascript&theme=dracula&layout=compact">
 </p>
 
 
