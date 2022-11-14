@@ -17,10 +17,10 @@ I teach robots how to perceive, how to learn, and how to act. For more details o
 [![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=Windows&logoColor=blue)](https://www.microsoft.com/en-us/windows)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=lightblue)](https://code.visualstudio.com/)
 
-<p align="left">
+<!-- <p align="left">
 <img alt="William's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=williamcfrancis&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
 <img alt="William's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcfrancis&hide=c,javascript&theme=dracula&layout=compact">
-</p>
+</p> -->
 
 
 <!--
