@@ -2,7 +2,7 @@
 
 I am a second year graduate student in robotics at the University of Pennsylvania. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology, India, 
 
-I teach robots how to perceive, how to learn, and how to act. For more details on what I've done, you're welcome to visit my [personal website](https://williamcfrancis.netlify.app/).
+<!-- I teach robots how to perceive, how to learn, and how to act. For more details on what I've done, you're welcome to visit my [personal website](https://williamcfrancis.netlify.app/). -->
 
 ## Skills
 ![C](https://img.shields.io/badge/-C-239DFF?style=flat-square&logo=c&logoColor=white)
