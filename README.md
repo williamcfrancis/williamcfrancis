@@ -1,3 +1,5 @@
+![image](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)
+
 ## Howdy! 👋
 
 I am a second year graduate student in Robotics at the University of Pennsylvania. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology, 
