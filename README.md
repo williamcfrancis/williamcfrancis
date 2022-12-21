@@ -1,8 +1,7 @@
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 ## Howdy! 👋
 
-I am a second year graduate student in Robotics at the University of Pennsylvania. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology, 
-
+I'm a graduate student in Robotics at the University of Pennsylvania. I'm passionate about learning and building machines that can think and learn like humans, working to make these technologies accessible to everyone. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology. 
 <!-- I teach robots how to perceive, how to learn, and how to act. For more details on what I've done, you're welcome to visit my [personal website](https://williamcfrancis.netlify.app/). -->
 
 ## Skills
