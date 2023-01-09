@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm William C Francis</h1>
 <h3 align="center">A passionate AI & ML developer</h3>
 I'm a graduate student in Robotics at the University of Pennsylvania. I'm passionate about learning and building machines that can think and learn like humans, working to make these technologies accessible to everyone. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamcfrancis&label=Profile%20views&color=00b36e&style=flat" alt="williamcfrancis" /> </p>
 
 - 🔭 I’m currently working on [enhancing EfficientPS using SOLOv2](https://github.com/williamcfrancis/Enhancing-Efficient-Panoptic-Segmentation-with-SOLOv2)
 
@@ -36,6 +35,7 @@ I'm a graduate student in Robotics at the University of Pennsylvania. I'm passio
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamcfrancis&show_icons=true&theme=gruvbox&bg_color=000000&locale=en" alt="williamcfrancis" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamcfrancis&label=Profile%20views&color=00b36e&style=flat" alt="williamcfrancis" /> </p>
 
 <!-- I teach robots how to perceive, how to learn, and how to act. For more details on what I've done, you're welcome to visit my [personal website](https://williamcfrancis.netlify.app/). -->
 <!-- 
