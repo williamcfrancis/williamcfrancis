@@ -9,7 +9,7 @@ I'm a graduate student in Robotics at the University of Pennsylvania. I'm passio
 
 - 🔭 I’m currently working on [enhancing EfficientPS using SOLOv2](https://github.com/williamcfrancis/Enhancing-Efficient-Panoptic-Segmentation-with-SOLOv2)
 
-- 🌱 I’m currently learning **ROS2**
+- 🌱 I’m currently learning **Apache Kafka**
 
 - 👯 I’m looking to collaborate on [improving ESRGAN for Image Super Resolution](https://github.com/williamcfrancis/Enhancing-Image-Super-Resolution-with-Improved-ESRGAN)
 
