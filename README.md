@@ -13,7 +13,7 @@ I'm a graduate student in Robotics at the University of Pennsylvania. I'm passio
 
 <!-- - 👯 I’m looking to collaborate on [improving ESRGAN for Image Super Resolution](https://github.com/williamcfrancis/Enhancing-Image-Super-Resolution-with-Improved-ESRGAN) -->
 
-- 👨‍💻 All of my projects are available at [https://williamcfrancis.netlify.app/](https://williamcfrancis.netlify.app/)
+- 👨‍💻 Learn more about me at [https://williamcfrancis.netlify.app/](https://williamcfrancis.netlify.app/)
 
 - 📫 How to reach me **willcf@seas.upenn.edu**
 
