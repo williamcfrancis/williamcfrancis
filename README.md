@@ -5,7 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm William C Francis</h1>
 <h3 align="center">A passionate AI & ML developer</h3>
-I'm a dual masters student in Robotics and Computer Science at the University of Pennsylvania. I'm passionate about learning and building machines that can think and learn like humans, working to make these technologies accessible to everyone. I received my bachelor's major degree in Electrical and Electronics Engineering (EEE) and a minor degree in Computer Science Engineering (CSE) at the Vellore Institute of Technology.
+As a dual masters student in Robotics and Computer Science at the University of Pennsylvania, I am driven by my passion for advancing the field of artificial intelligence and machine learning. My ultimate goal is to develop machines that can think and learn like humans, and to make these technologies accessible to all. My background in Electrical and Electronics Engineering and Computer Science Engineering from Vellore Institute of Technology has equipped me with the necessary skills to tackle the complex challenges of this field. I am continually seeking new opportunities to improve and innovate, and I am eager to share my work and collaborate with others on Github.
+
+
+
+
 
 - 🔭 I’m currently working on [enhancing EfficientPS using SOLOv2](https://github.com/williamcfrancis/Enhancing-Efficient-Panoptic-Segmentation-with-SOLOv2)
 
