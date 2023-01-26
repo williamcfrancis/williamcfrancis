@@ -17,11 +17,11 @@ As a dual masters student in Robotics and Computer Science at the University of 
 
 <!-- - 👯 I’m looking to collaborate on [improving ESRGAN for Image Super Resolution](https://github.com/williamcfrancis/Enhancing-Image-Super-Resolution-with-Improved-ESRGAN) -->
 
-- 👨‍💻 Learn more about me at [https://williamcfrancis.netlify.app/](https://williamcfrancis.netlify.app/)
+- 👨‍💻 Learn more about me from [my portfolio website](https://williamcfrancis.netlify.app/)
 
-- 📫 How to reach me **willcf@seas.upenn.edu**
+- 📫 Reach out to me at **williamcfrancis.ai@gmail.com** for collaborations, or just to say hi
 
-- 📄 Know about my experiences [https://williamcfrancis.netlify.app/files/Resume.pdf](https://williamcfrancis.netlify.app/files/Resume.pdf)
+- 📄 Know about my experiences through my [resume](https://williamcfrancis.netlify.app/files/Resume.pdf)
 
 - ⚡ Fun fact **I was a professional tennis player**
 
