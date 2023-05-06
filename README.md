@@ -11,9 +11,9 @@ As a dual masters student in Robotics and Computer Science at the University of 
 
 
 
-- 🔭 I’m currently working on [enhancing EfficientPS using SOLOv2](https://github.com/williamcfrancis/Enhancing-Efficient-Panoptic-Segmentation-with-SOLOv2)
+- 🔭 I’m currently working on [GPT Vision Assistant](https://github.com/williamcfrancis/gpt-vision-assistant)
 
-- 🌱 I’m currently learning **Apache Kafka**
+- 🌱 I’m currently learning **neuro-symbolic AI**
 
 <!-- - 👯 I’m looking to collaborate on [improving ESRGAN for Image Super Resolution](https://github.com/williamcfrancis/Enhancing-Image-Super-Resolution-with-Improved-ESRGAN) -->
 
